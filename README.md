@@ -1,8 +1,8 @@
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
 <div class="title">
   <h1>Sergio Valero García</h1>
-  <img class="avatar" src="/assets/images/profile.png" alt="profile picture" />
+  <img class="avatar" src="{{ site.baseurl }}/assets/images/profile.png" alt="profile picture" />
 </div>
 
 _Software engineer and journalist based in Berlin 🇩🇪_
