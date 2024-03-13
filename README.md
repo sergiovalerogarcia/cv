@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/main.css">
+
 <div class="title">
   <h1>Sergio Valero García</h1>
   <img class="avatar" src="/assets/images/profile.png" alt="profile picture" />
@@ -13,6 +15,7 @@ _Software engineer and journalist based in Berlin 🇩🇪_
 <div style="width: 20rem">
   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,gitlab,azure,fastapi,kotlin,java,react,vue,python,postgres,bash,linux,aws,ts,grafana,maven,materialui,figma,gcp,github,kafka,nuxtjs,vite,vuetify" />
 </div>
+
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_
 
 No-code platform that enables professionals to build interactive applications.
@@ -168,24 +171,3 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 - [American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
 - **International Exchange** studying Political Science
 - [Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
-
-<style>
-  .title {
-    display: flex;
-    justify-content: space-between;
-  }
-  .avatar {
-    height: 4rem;
-  }
-  @media print {
-    footer {
-      display: none;
-    }
-    body {
-      padding-top: 0;
-    }
-    header {
-      display: none;
-    }
-  }
-</style>
