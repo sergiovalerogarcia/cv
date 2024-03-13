@@ -14,20 +14,13 @@ _Software engineer based in Spain 🇪🇸_
 [LinkedIn](https://www.linkedin.com/in/sergio-valero-garcia/) / [GitHub](https://github.com/sergiovalerogarcia/) / [Twitter](https://twitter.com/devegloper/) / [OnlineCV](https://sergiovalerogarcia.github.io/cv/)
 
 
-## 👩‍💻 Experience
+## 👩‍💻 Experience [WIP]
 
 <div style="width: 20rem">
   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,gitlab,azure,fastapi,kotlin,java,react,vue,python,postgres,bash,linux,aws,ts,grafana,maven,materialui,figma,gcp,github,kafka,nuxtjs,vite,vuetify" />
 </div>
 
-**Frontend Engineer** - [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_
-
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
-
+**Senior Software Engineer** - [NEXT DIGITAL](https://www.nextdigital.es) _(Jun 2023 - Present)_
   
 ## 🥰 Interests
 
