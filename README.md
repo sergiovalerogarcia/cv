@@ -63,7 +63,7 @@ _Software engineer based in Spain 🇪🇸_
   - ETL/ELT processes using dbt, airflow, Kafka, AWS (Redshift, S3, EKS, ECS, EMR...) and data visualization in PowerBI service.
   - Implement CI/CD pipelines using Gitlab.
 
-- Web Next digital.
+- Next digital website.
 <div class="skills" style="width: 4rem">
   <img src="https://skillicons.dev/icons?i=nuxtjs,jest,gitlab,kubernetes" />
 </div>
