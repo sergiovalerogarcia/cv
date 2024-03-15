@@ -81,7 +81,7 @@ _Software engineer based in Spain 🇪🇸_
   - Designing Data-Intensive Applications - _Martin Kleppmann_
   - Git for Teams - _Emma Jane Hogbin Westby_
 
-- 📚 **Learning to deal better with the world**: Psychology and philosophy for me are refuges that help me to understand myself in the world and to get enough motivation to try to do things better. Some of the ideas that have been with me for a long time and that I never get tired of exploring are:
+- 📚 **Learning to deal better with the world**: Psychology and Philosophy for me are refuges that help me to understand myself in the world and to get enough motivation to try to do things better. Some of the ideas that have been with me for a long time and that I never get tired of exploring are:
   - [Effective altruism](https://www.effectivealtruism.org/)
   - Veganism
   - Feminism
