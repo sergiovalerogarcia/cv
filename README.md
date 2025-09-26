@@ -17,7 +17,7 @@ _Software engineer based in Spain 🇪🇸_
 ## 👩‍💻 Experience
 
 ###  Software Engineer
-#### [Realnaut](https://realnaut.com/) _(Nov 2024 - Jan 2025)_
+#### [Realnaut](https://realnaut.com/) _(Aug 2024 - Oct 2024)_
 
 - Management app with a conversational LLM interface, using AI to classify files and extract metadata.
 <div class="skills" style="width: 11rem; margin-bottom: 20px">
@@ -25,7 +25,7 @@ _Software engineer based in Spain 🇪🇸_
 </div>
 
 ### Senior Software Engineer
-#### [NEXT DIGITAL](https://www.nextdigital.es) _(Jun 2023 - Nov 2024)_
+#### [NEXT DIGITAL](https://www.nextdigital.es) _(Jun 2023 - Aug 2024)_
 
 - Application to optimize the assignment of parkings at an airport.
 <div class="skills" style="width: 11rem">
